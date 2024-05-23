@@ -23,6 +23,23 @@
 
 ## 🕸 Proyectos 🕸
 
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">TaigaTournament</h3>
+      <div align="center">
+        <a href="https://github.com/ErickAlfonsoA/Taiga-Tournament" target="_blank"><img src="https://i.imgur.com/xpav8sA.png" width="400" alt="TaigaTournament"></a>
+        <p>
+          <a href="https://github.com/ErickAlfonsoA/Taiga-Tournament" target="_blank">
+            <img src="https://img.shields.io/badge/CÓDIGO-fff?style=for-the-badge&logo=github&logoColor=black">
+          </a>
+        </p>
+        <p>TaigaTournament es un proyecto el cual se trata de un <strong>sistema gestor de participantes para torneos con acomodo de sistema suizo</strong>, donde se enfrentan los
+          mas fuertes de cada ronda y se obtienen puntos cuando en base a las victorias de los participantes que les hayas ganado.</p>
+      </div>                                                                                
+    </td>
+</table>
+
 ## 🕸 Tecnologias 🕸
 <!--h1 without bottom border-->
 <div id="user-content-toc">
