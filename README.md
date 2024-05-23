@@ -1,22 +1,39 @@
-## Hola crayola 👋 soy KumonDev 🕷
-
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hola crayola 👋 soy KumonDev 🕷</h1></summary>
+    <summary><h1 style="display: inline-block">🕷 Hola crayola 👋 soy KumonDev 🕷</h1></summary>
   </ul>
 </div>
 
-<!--
-**ErickAlfonsoA/ErickAlfonsoA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--- snake -->
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
 
-Here are some ideas to get you started:
+## 🕸 Sobre mi 🕸
+- 🔭 Desarrollador de Software Jr
+  
+- 📄 Actualmente aprendiendo sobre **Ciencia de datos** y **Javascript**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🤖 Interesado en la creación de **Bots** e **Inteligencia Artificial**
+
+- 💬 Puedes contactarme por correo **gumikhe@gmail.com**
+
+- 💾 Tambien cuento con discord [_pecorine](https://discordapp.com/users/577652607330549775)
+
+## 🕸 Proyectos 🕸
+
+## 🕸 Tecnologias 🕸
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">🕸 Tecnologias que utilizo 🕸</h2></summary>
+  </ul>
+</div>
+
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,java,mysql,sqlite,html,css,discord,vscode&perline=4" />
+  </a>
+</p>
