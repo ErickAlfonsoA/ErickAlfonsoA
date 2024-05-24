@@ -54,6 +54,24 @@
     </div>                                                                                
   </td>
 </table>
+<br>
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">WhatsApp Bot</h3>
+      <div align="center">
+        <a href="https://github.com/ErickAlfonsoA/WhatsApp-Bot" target="_blank"><img src="https://i.imgur.com/ybqE4ui.png" width="400" alt="WhatsApp Bot"></a>
+        <p>
+          <a href="https://github.com/ErickAlfonsoA/WhatsApp-Bot" target="_blank">
+            <img src="https://img.shields.io/badge/CÓDIGO-fff?style=for-the-badge&logo=github&logoColor=black">
+          </a>
+        </p>
+        <p>Este proyecto es un bot de WhatsApp creado para Laboratorios Clinicos San Juan, este bot se encarga de dar <strong>atención al cliente de manera automatizada</strong>,
+          el bot fue dotado de las capacidades de poder cotizar análisis y agendar citas.</p>
+      </div>                                                                                
+  </td>
+</table>
 
 ## 🕸 Tecnologias 🕸
 <!--h1 without bottom border-->
