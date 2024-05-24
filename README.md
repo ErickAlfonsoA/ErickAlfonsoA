@@ -38,21 +38,20 @@
           mas fuertes de cada ronda y se obtienen puntos cuando en base a las victorias de los participantes que les hayas ganado.</p>
       </div>                                                                                
   </td>
-
-  <tr>
-    <td width="50%">
-      <h3 align="center">CotizaLab 🧪</h3>
-      <div align="center">
-        <a href="https://github.com/ErickAlfonsoA/CotizaLab" target="_blank"><img src="https://i.imgur.com/7iie4kt.png" width="400" alt="CotizaLab"></a>
-        <p>
-          <a href="https://github.com/ErickAlfonsoA/CotizaLab" target="_blank">
-            <img src="https://img.shields.io/badge/CÓDIGO-fff?style=for-the-badge&logo=github&logoColor=black">
-          </a>
-        </p>
-        <p>CotizaLab 🧪 es un proyecto el cual se trata de un <strong>sistema evaluador de costos para análisis clinicos </strong>, desarrollado para Laboratorios Clinicos
+    
+  <td width="50%">
+    <h3 align="center">CotizaLab 🧪</h3>
+    <div align="center">
+      <a href="https://github.com/ErickAlfonsoA/CotizaLab" target="_blank"><img src="https://i.imgur.com/7iie4kt.png" width="400" alt="CotizaLab"></a>
+      <p>
+        <a href="https://github.com/ErickAlfonsoA/CotizaLab" target="_blank">
+          <img src="https://img.shields.io/badge/CÓDIGO-fff?style=for-the-badge&logo=github&logoColor=black">
+        </a>
+      </p>
+      <p>CotizaLab 🧪 es un proyecto el cual se trata de un <strong>sistema evaluador de costos para análisis clinicos </strong>, desarrollado para Laboratorios Clinicos
           San Juan, el proyecto puede hacer comparativas entre los diversos analisis clinicos que maneja, ademas de poder cotizaro con mayor eficiencia a comparación de hacerlo
           manualmente.</p>
-      </div>                                                                                
+    </div>                                                                                
   </td>
 </table>
 
